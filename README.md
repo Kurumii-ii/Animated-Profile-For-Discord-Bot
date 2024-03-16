@@ -57,6 +57,6 @@ main.py requirements.txt README.md
 [ + ] Changed Bot Avatar Successfully, Redirecting To Main Menu In 5 Seconds
 ```
 
+### Thanks [Slumbersage](https://github.com/slumbersage) For Helping Me
 ### Idea & References
 https://github.com/TheCuteOwl/discord-bot-animated-pfp
-### Also Thanks [Slumbersage](https://github.com/slumbersage) For Helping Me
