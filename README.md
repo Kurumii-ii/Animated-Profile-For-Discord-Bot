@@ -58,5 +58,4 @@ main.py requirements.txt README.md
 ```
 
 ### Thanks [Slumbersage](https://github.com/slumbersage) For Helping Me
-### Idea & References
-https://github.com/TheCuteOwl/discord-bot-animated-pfp
+### Idea & References : https://github.com/TheCuteOwl/discord-bot-animated-pfp
