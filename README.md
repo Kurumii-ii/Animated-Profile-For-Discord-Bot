@@ -1,14 +1,60 @@
-### How To Use
+### What You Need
+* Your Bot Token
+* Image To Use For Your Bot Profile
 
-Install Python First If You Still Haven't
+### How To Use ( Install Python First If You Still Haven't )
 
-Git Clone This Repository
-```bash
+```
 git clone https://github.com/Kurumii-ii/Animated-Profile-For-Discord-Bot.git
 ```
-
-```python
+```
+cd Animated-Profile-For-Discord-Bot
+```
+```
 pip install -r requirements.txt
+```
+```
+python3 main.py
+```
+And Then You Will See This
+```
+Bot Username : Bot Name#1234
+
+[ 1 ] Change Bot Avatar
+[ 2 ] Change Bot Banner
+[ 3 ] Change Application Icon
+[ 4 ] Exit
+[ ~ ] Enter The Number Of Desired Option Here ~>
+```
+### Example
+```
+Bot Username : Bot Name#1234
+
+[ 1 ] Change Bot Avatar
+[ 2 ] Change Bot Banner
+[ 3 ] Change Application Icon
+[ 4 ] Exit
+[ ~ ] Enter The Number Of Desired Option Here ~> 1
+```
+You Can Either Move The Images Into The Folder [ Animated-Profile-For-Discord-Bot ]
+```
+main.py requirements.txt README.md image.gif banner.gif
+
+[ + ] Choose From Above or Drag The Image Here ~> image.gif
+```
+Or
+Simply Drag The Image Here ( Make Sure There Isn't Any Spaces At The End Of The Path )
+```
+main.py requirements.txt README.md
+
+[ + ] Choose From Above or Drag The Image Here ~> 'home/Downloads/Image.gif'
+```
+Congrats
+```
+main.py requirements.txt README.md
+
+[ + ] Choose From Above or Drag The Image Here ~> 'home/Downloads/Image.gif'
+[ + ] Changed Bot Avatar Successfully, Redirecting To Main Menu In 5 Seconds
 ```
 
 ### Idea & References
