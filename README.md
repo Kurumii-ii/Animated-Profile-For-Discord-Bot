@@ -49,7 +49,7 @@ main.py requirements.txt README.md
 
 [ + ] Choose From Above or Drag The Image Here ~> 'home/Downloads/Image.gif'
 ```
-You Will See This Message When The Request Is Sent Successfully
+You Will See This Message When The Changes Have Been Made Successfully
 ```
 main.py requirements.txt README.md
 
