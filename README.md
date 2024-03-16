@@ -1,6 +1,6 @@
 ### What You Need
 * Your Bot Token
-* Image To Use For Your Bot Profile
+* Images To Use As Your Bot Profile
 
 ### How To Use ( Install Python First If You Still Haven't )
 
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 python3 main.py
 ```
-And Then You Will See This
+And Then You Will See This Prompt
 ```
 Bot Username : Bot Name#1234
 
@@ -49,7 +49,7 @@ main.py requirements.txt README.md
 
 [ + ] Choose From Above or Drag The Image Here ~> 'home/Downloads/Image.gif'
 ```
-Congrats
+You Will See This Message When The Request Is Sent Successfully
 ```
 main.py requirements.txt README.md
 
