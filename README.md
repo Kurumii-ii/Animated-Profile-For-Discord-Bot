@@ -1,3 +1,8 @@
+### What It Does
+* Change Your Bot Avatar
+* Change Your Bot Banner
+* Change Your Application Icon
+
 ### What You Need
 * Your Bot Token
 * Images To Use As Your Bot Profile
