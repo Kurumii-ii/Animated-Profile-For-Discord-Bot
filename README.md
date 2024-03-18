@@ -4,7 +4,7 @@
 * Change Your Application Icon
 
 ### Note
-
+* Re-Invite The Bot Into Your Server If The Bot Avatar Is Being Bugged.
 
 ### What You Need
 * Your Bot Token
