@@ -3,6 +3,9 @@
 * Change Your Bot Banner
 * Change Your Application Icon
 
+### Note
+
+
 ### What You Need
 * Your Bot Token
 * Images To Use As Your Bot Profile
